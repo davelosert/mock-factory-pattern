@@ -26,7 +26,7 @@ You can find two implementations of this pattern here:
 - [src/createMockUser.ts](./src/createMockUser.ts): simple example
 - [src/createMockTodo.ts](./src/createMockTodo.ts): example using `cloneDeep` to ensure immutability.
 
-You can read more about it in my [blog-post](tbd.) which this repository accompanies.
+You can read more about it in my [blog-post](https://dev.to/davelosert/mock-factory-pattern-in-typescript-44l9) which this repository accompanies.
 
 ## Setup
 
